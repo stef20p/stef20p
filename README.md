@@ -7,7 +7,8 @@
 -  [Using Python to check your password](https://github.com/stef20p/HaveIBeenPwned)
  
 
-<h2>📺 Certifcations </h2>
+<h2>📃 Certifcations </h2> 
+
 
 - [Google Cybersecurity Certifcate](https://www.credly.com/badges/a3d4e7ed-b778-4818-ac1a-22b15c58bedc)
 - [CompTIA A+](https://www.comptia.org/certifications/a) (In Progress)
