@@ -12,8 +12,8 @@
 
 - [Google Cybersecurity Certifcate](https://www.credly.com/badges/a3d4e7ed-b778-4818-ac1a-22b15c58bedc)
 - [CompTIA A+](https://www.comptia.org/certifications/a) (In Progress)
-- [SAS Base Programming](https://www.credly.com/earner/earned/badge/a381224c-1fe7-4df5-98b4-e116de50b849)
-- [SAS Visual Business Analytics](https://www.credly.com/earner/earned/badge/68f040c3-380f-46bc-a7e7-960b1dcb57fa)
+- [SAS Base Programming](https://www.credly.com/badges/a381224c-1fe7-4df5-98b4-e116de50b849/public_url)
+- [SAS Visual Business Analytics](https://www.credly.com/badges/68f040c3-380f-46bc-a7e7-960b1dcb57fa/public_url)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
