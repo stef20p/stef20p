@@ -3,13 +3,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 -  [Applying Filters to SQL Queries](https://github.com/stef20p/Applying-filters-to-SQL-Queries)
--  [Using Python to send spam emails](https://github.com/stef20p/Using-Python-to-send-Phishing-Emails)
--  [Using Python to check your password](https://github.com/stef20p/HaveIBeenPwned)
--  [Conducting A Security Audit](https://github.com/stef20p/Conducting-a-Security-Audit/tree/main)
--  [Using NIST Framework](https://github.com/stef20p/NIST-Framework-to-respond-to-an-incident)
--  [Using Linux to change file permissions](https://github.com/stef20p/Using-Linux-for-file-permissions)
 -  [Analyzing a vulnerable system](https://github.com/stef20p/Analysis-of-a-vulnerable-system/tree/main)
+-  [Conducting A Security Audit](https://github.com/stef20p/Conducting-a-Security-Audit/tree/main)
 -  [My Incident handlers Journal](https://github.com/stef20p/Incident-Handler-s-Journal)
+-  [Using Linux to change file permissions](https://github.com/stef20p/Using-Linux-for-file-permissions)  
+-  [Using NIST Framework](https://github.com/stef20p/NIST-Framework-to-respond-to-an-incident)
+-  [Using Python to check your password](https://github.com/stef20p/HaveIBeenPwned) 
+-  [Using Python to send spam emails](https://github.com/stef20p/Using-Python-to-send-Phishing-Emails)
+-  [Using Python to update a file](https://github.com/stef20p/Updating-a-file-through-Python)
  
 
 <h2>📃 Certifcations </h2> 
