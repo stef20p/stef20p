@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
--  [Using Linux Command for file permissions](https://github.com/stef20p/Applying-filters-to-SQL-Queries)
+-  [Applying Filters to SQL Queries](https://github.com/stef20p/Applying-filters-to-SQL-Queries)
 -  [Using Python to send spam emails](https://github.com/stef20p/Using-Python-to-send-Phishing-Emails)
 -  [Using Python to check your password](https://github.com/stef20p/HaveIBeenPwned)
+-  [Conducting A Security Audit](https://github.com/stef20p/Conducting-a-Security-Audit/tree/main)
  
 
 <h2>📃 Certifcations </h2> 
