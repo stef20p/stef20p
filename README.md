@@ -8,7 +8,7 @@
 -  [Conducting A Security Audit](https://github.com/stef20p/Conducting-a-Security-Audit/tree/main)
 -  [Using NIST Framework](https://github.com/stef20p/NIST-Framework-to-respond-to-an-incident)
 -  [Using Linux to change file permissions](https://github.com/stef20p/Using-Linux-for-file-permissions)
--  [Analyzing a vulnerable system](https://github.com/stef20p/Using-Linux-for-file-permissions)
+-  [Analyzing a vulnerable system](https://github.com/stef20p/Analysis-of-a-vulnerable-system/tree/main)
  
 
 <h2>📃 Certifcations </h2> 
