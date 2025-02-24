@@ -9,7 +9,7 @@
 -  [Using Linux to change file permissions](https://github.com/stef20p/Using-Linux-for-file-permissions)  
 -  [Using NIST Framework](https://github.com/stef20p/NIST-Framework-to-respond-to-an-incident)
 -  [Using Python to check your password](https://github.com/stef20p/HaveIBeenPwned) 
--  [Using Python to send spam emails](https://github.com/stef20p/Using-Python-to-send-Phishing-Emails)
+-  [Using Python to send phishing emails](https://github.com/stef20p/Using-Python-to-send-Phishing-Emails)
 -  [Using Python to update a file](https://github.com/stef20p/Updating-a-file-through-Python)
  
 
