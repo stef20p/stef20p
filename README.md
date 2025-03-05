@@ -4,6 +4,7 @@
 
 -  [Applying Filters to SQL Queries](https://github.com/stef20p/Applying-filters-to-SQL-Queries)
 -  [Analyzing a vulnerable system](https://github.com/stef20p/Analysis-of-a-vulnerable-system/tree/main)
+-  [Building a Home Lab](https://github.com/stef20p/HomeLab)
 -  [Conducting A Security Audit](https://github.com/stef20p/Conducting-a-Security-Audit/tree/main)
 -  [My Incident handlers Journal](https://github.com/stef20p/Incident-Handler-s-Journal)
 -  [Using Linux to change file permissions](https://github.com/stef20p/Using-Linux-for-file-permissions)  
